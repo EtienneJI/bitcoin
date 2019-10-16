@@ -8,4 +8,9 @@ dependencies:
     - scikit-learn
     - matplotlib
     - pandas
-    - thinc
+    - sklearn
+    - datetime
+    - seaborn
+    - keras
+    - math
+    - plotly
